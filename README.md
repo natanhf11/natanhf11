@@ -1,4 +1,4 @@
-## Olá! Eu sou o Natan
+## Olá! Eu sou o Natan. Desenvolvedor em formação :)
 -💻 Front-end dev
 -📖 Estudando reactjs
 
@@ -16,3 +16,9 @@
 </div>
 
 ![snake gif](https://github.com/natanhf11/natanhf11/blob/output/github-contribution-grid-snake.svg)
+##
+   <div align="center">
+  <a href="https://www.instagram.com/ferracini.natan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:natanferracine@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natan-ferracini-724737200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
